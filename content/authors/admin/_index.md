@@ -6,6 +6,10 @@ title: Kristy (Yubo) Ma
 first_name: Kristy
 last_name: Ma
 
+# Username (this should match the folder name)
+authors:
+- admin
+
 # Status emoji
 status:
   icon: ☕️
