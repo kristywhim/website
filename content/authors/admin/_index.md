@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kma1@unc.edu'
+    link: 'mailto:kma1@unc.edu'
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -75,4 +75,6 @@ highlight_name: true
 ---
 
 I'm a first-year MS student at the University of North Carolina at Chapel Hill's [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/). I received a BA in Statistics from [Macalester College](https://www.macalester.edu/) in May 2023.
+
+Outside of work, I love downhill skiing, drinking coconut water and fruit tea, listening to EDM/K-POP, and dancing. But on top of all, I love reflecting about life and enjoy it.
 {style="text-align: justify;"}
