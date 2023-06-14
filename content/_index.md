@@ -65,10 +65,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Causal Inference
+          tag: Causal Inference
+        - name: Math Stat
+          tag: Mathematical Statistics
+        - name: Stats Gen
+          tag: Statistical Genetics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
