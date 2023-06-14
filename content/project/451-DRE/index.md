@@ -1,6 +1,6 @@
 ---
-title: 451-DRE
-summary: summary of 451-DRE.
+title: Doubly Robust Estimator
+summary: A tool used for estimating average causal effects.
 tags:
   - Causal Inference
   - Estimating causal effects
