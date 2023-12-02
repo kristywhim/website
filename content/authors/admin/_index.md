@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Biostatistics MS student
+role: Biostatistics Master's student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,7 +78,7 @@ email: 'kma1@unc.edu'
 highlight_name: true
 ---
 
-I'm a first-year MS student at the University of North Carolina at Chapel Hill's [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/). I received a BA in Statistics from [Macalester College](https://www.macalester.edu/) (with minors in Biology and Computer Science) in May 2023.
+I'm a first-year M.S. student at the University of North Carolina at Chapel Hill's [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/). I received a B.A. in Statistics from [Macalester College](https://www.macalester.edu/) (with minors in Biology and Computer Science) in May 2023. Currently, I am a lab member of [Li Lab](https://github.com/li-lab-genetics) where I am honored to work with [Dr. Xihao Li](https://xihaoli.org) and other wonderful peers for novel statistical methods that contribute to detecting rare-variant set association by variants' annotation information ([STAAR](https://github.com/xihaoli/STAAR)).
 
-Outside of work, I love downhill skiing, drinking coconut water and fruit tea, listening to EDM/K-POP, and dancing. But on top of all, I love reflecting about life and enjoy it.
+Outside of work, I love downhill skiing, drinking coconut water and white tea. But on top of all these, I love reflecting about life and enjoy it.
 {style="text-align: justify;"}
