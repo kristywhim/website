@@ -1,8 +1,17 @@
 ---
 title: "Combined analysis of transposable elements and structural variation in maize genomes reveals genome contraction outpaces expansion"
-authors: Manisha
-Munasinghe, Andrew Read, Michelle C. Stitzer, Baoxing Song, Claire Menard, Kristy Yubo Ma, Yaniv Brandvain, Candice N. Hirsch, and Nathan Springer.
-- admin
+
+authors:
+  - Manisha Munasinghe, Ph.D.
+  - Andrew Read, Ph.D.
+  - Michelle C. Stitzer, Ph.D.
+  - Baoxing Song, Ph.D.
+  - Claire Menard
+  - Kristy Yubo Ma
+  - Yaniv Brandvain, Ph.D.
+  - Candice N. Hirsch, Ph.D.
+  - Nathan Springer, Ph.D.
+
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -31,13 +40,13 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.biorxiv.org/content/10.1101/2023.03.02.530873v1.full.pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011086'
 url_video: ''
 
 # Featured image
