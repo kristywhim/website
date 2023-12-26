@@ -67,9 +67,9 @@ sections:
           tag: '*'
         - name: Causal Inference
           tag: Causal Inference
-        - name: Math Stat
+        - name: Math Stats
           tag: Mathematical Statistics
-        - name: Stats Gen
+        - name: Statistical Genetics
           tag: Statistical Genetics
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
