@@ -2,6 +2,7 @@
 title: "Combined analysis of transposable elements and structural variation in maize genomes reveals genome contraction outpaces expansion"
 
 authors:
+
   - Manisha Munasinghe, Ph.D.
   - Andrew Read, Ph.D.
   - Michelle C. Stitzer, Ph.D.
@@ -16,7 +17,7 @@ date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-01T00:00:00Z"
+publish Date: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
