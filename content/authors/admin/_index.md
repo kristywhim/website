@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Kristy (Yubo) Ma
+title: Krypton (Yubo) Ma
 
 # Full name (for SEO)
-first_name: Kristy
+first_name: Krypton
 last_name: Ma
 
 # Username (this should match the folder name)
@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Biostatistics Master's student
+role: Biostats '25 @UNC | Digital Marketer | Journalist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,7 +78,7 @@ email: 'kma1@unc.edu'
 highlight_name: true
 ---
 
-I'm a first-year master's student at the University of North Carolina at Chapel Hill's [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/). I received a B.A. in Statistics from [Macalester College](https://www.macalester.edu/) (with minors in Biology and Computer Science) in May 2023. Currently, I am a lab member of [Li Lab](https://github.com/li-lab-genetics) where I am honored to work with [Dr. Xihao Li](https://xihaoli.org) and other wonderful peers for novel statistical methods that contribute to detecting rare-variant set association by variants' annotation information ([STAAR](https://github.com/xihaoli/STAAR)). My current job is to develop computational add-on customizations to [STAARpipeline](https://github.com/xihaoli/STAARpipeline), an R workflow that performs rare variant-set test for association in whole-genome sequencing studies from TOPMed database.
+I'm a second-year master's student at the University of North Carolina at Chapel Hill's [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/). I received a B.A. in Statistics from [Macalester College](https://www.macalester.edu/) (with minors in Biology and Computer Science) in May 2023. Currently, I am a lab member of [Li Lab](https://github.com/li-lab-genetics) where I am honored to work with [Dr. Xihao Li](https://xihaoli.org) and other wonderful peers for novel statistical methods that contribute to detecting rare-variant set association by variants' annotation information ([STAAR](https://github.com/xihaoli/STAAR)). My current job is to develop computational add-on customizations to [STAARpipeline](https://github.com/xihaoli/STAARpipeline), an R workflow that performs rare variant-set test for association in whole-genome sequencing studies from TOPMed database.
 
-Outside of work, I love downhill skiing, choreography, lighting up scented candles, drinking coconut water and white tea. But on top of all these, I love reflecting about life and enjoy it.
+Outside of work, I like downhill skiing (I can play up to black diamond!), choreography (urban dance, K-pop, jazz mostly), lighting up scented candles (woody or tea tone), drinking coconut water and white tea. I was an ex-athelete in badminton but it has been 8 years I haven't played it. But on top of all these, visit my blog website [here](https://thoughtful-whim.netlify.app/en).
 {style="text-align: justify;"}
